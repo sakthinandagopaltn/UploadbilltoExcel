@@ -1,0 +1,4 @@
+create an python script that tracks the expenses of a family. 
+The script should have the input as a picture of any bill(restaurant, shop, medicine) 
+that has the spent amount 
+and save that expense in an excel file. 
