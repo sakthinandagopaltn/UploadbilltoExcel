@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local data
+family_expenses.xlsx
+*.xlsx
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Temp uploads
+*.tmp
